@@ -315,3 +315,10 @@ https://kplus-livecdn.fptplay.net/live/drmlive/14022022k1sport1_4000.stream/mani
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
 #EXTINF:-1 group-title="🍭| K+ PTPlay" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg",K+Sport2 HD
 https://live-drm.fptplay.net/MjU0MzE2NDV8MjcwODIwMjFrMXBjX3ZobHMuc21pbHx2bnB0fDE2NjQyMDk3MDZ8MTEzLjE4Ni40MS4xMTR8ZjM4Mzg3ZmI1MDk0MTgyNWMyYTk2NGI4MzUwMDg3MWY/webplus/27082021k1pc_vhls.smil/manifest.mpd
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://2no.co/2nzCL6.jpg", K+ Cine HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
+
+https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/bf29131d18a533f53fe67a47a4c169a0/1665033918731/wz/livetv_origin_drm/kplus_1_22_08_2021_android.smil/manifest.mpd?token=YmMwNjkzMzEtZTRmMC1lMDNiLTYxMTAtOTY4YzdkMzJiMDJhfGFuZHJvaWR8MGU3NTE5MWQ0ZjYyYTQxMGQ2MzZkOTAxMjZkNzliODd8NTFhY2NiMmMtMWRlMC00YTVjLTlkOGEtYjEzOWEyMmI5MDEyfGxpdmV0dnwyMEVGMDh8MWJjZjVlNDAwMGFlNWY3ZTdiOGUwZDIyNjkyNjg0OTk=
